@@ -1,1 +1,0 @@
-# instructlab-car-manual
