@@ -7,7 +7,7 @@
 **NEW VEHICLE RUNNING-IN**  
 Do not brake unnecessarily hard for the first few journeys. During the first drive, smoke may occur because of wax and oil evaporating off the exhaust system. Park the vehicle in the open for a while after the first drive and avoid inhaling the fumes. During the running-in period, fuel and engine oil consumption may be higher. Additionally, the cleaning process of the exhaust filter may take place more often.
 
-**VEHICLES WITH IGNITIONSWITCH**  
+**VEHICLES WITH IGNITION SWITCH**  
 Turn key to position 1 to release the steering wheel lock.  
 Manual transmission: operate clutch and brake pedal.  
 Electric Drive Unit: operate brake pedal. Do not operate accelerator pedal.  
