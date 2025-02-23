@@ -128,3 +128,34 @@ NOTE: Execute the above checks
 4. It is recommended any time static checks are not enough to identify vehicle issue(s)
 5. The brake fluid replacement has to be done every two years, irrespective of the mileage
 6. If the vehicle is used outside Europe replace every 25,000 km or 1 year
+
+### CHARGING THE CONVENTIONAL 12V BATTERY
+
+For optimum service life of the battery, it is essential to maintain an adequate state of charge.  
+In some circumstances, it may be necessary to charge the battery:
+- when using the vehicle mainly for short journeys
+- if the vehicle is to be taken off the road for several weeks Consult a Fiat Dealership.
+
+**WARNINGS**  
+WARNING After setting the ignition device to STOP and closing the driver's door, wait at least one minute before disconnecting the electrical supply from the conventional battery. When reconnecting the electrical supply to the conventional battery, make sure that the ignition device is in the STOP position and the driver's door is closed.  
+WARNING Charging should be slow at a low ampere rating for approximately 24 hours. Regardless of the duration of the operation, it is always recommended to disconnect the battery from the device as soon as charging is complete to avoid potential damage.
+WARNING The cables of the electrical system must be correctly reconnected to the conventional battery, i.e. the positive cable (+) to the positive terminal and the negative cable (–) to the negative terminal.
+
+The conventional battery terminals are marked with the positive (+) and negative (-) terminal symbols, and are shown on the cover of the battery itself.  
+The battery terminals must also be corrosion-free and firmly secured to the terminals. If a "quick-type" conventional battery charger is used with the battery fitted on the car, before connecting it disconnect both cables of the conventional battery itself. Do not use a "quick-type" battery charger to provide the starting voltage.
+
+**CHARGING THE CONVENTIONAL 12V BATTERY USING A BATTERY CHARGER**  
+WARNING To charge the vehicle's battery yourself, use only a charger compatible with lead-acid batteries with a nominal voltage of 12 V.  
+WARNING Follow the instructions provided by the manufacturer of the charger. Never reverse polarities.  
+WARNING For Hybrid version: the hybrid system is connected to the 12 V network through the DC/DC converter. Any operation may affect the overall behaviour of the system. To charge the vehicle's battery yourself, use only a charger compatible with lead-acid batteries with a nominal voltage of 12 V.  
+NOTE It is not necessary to disconnect the battery  
+Proceed as follows:
+- switch the ignition off
+- switch off all electrical consumers (audio system, lighting, wipers, etc.)
+- switch off charger before connecting the cables to the battery, so as to avoid any dangerous sparks
+- ensure that the charger cables are in good condition
+- lift the plastic cover on the (+) terminal, if the vehicle has one
+- connect the positive (+) red cable of the charger (1) fig. 293 to the positive (+) terminal of battery (2)
+- connect the negative (-) black cable of the charger (3) to a fastening bracket on the 12 V battery's negative (-) terminal (4) or to the vehicle grounding point (5) near the 12 V battery in the engine compartment
+- switch on the battery charger. At the end of the charging operation, switch off charger before disconnecting the cables from battery  
+The label applied on the fuses cover fig. 294 remind the correct connections and to use a booster battery with the same voltage (12 V).
